@@ -18,7 +18,7 @@ params:
   title: TruePositive
   description: "Security research, CTF writeups, and offensive/defensive insights."
   keywords: [security, ctf, pentesting, red team, writeups, malware]
-  author: mzalzahrani
+  author: Mohammed Alzahrani
   DateFormat: "January 2, 2006"
   defaultTheme: dark
   disableThemeToggle: false
@@ -45,10 +45,10 @@ params:
     text: "~/truepositive"
 
   homeInfoParams:
-    Title: "TruePositive"
+    Title: "Mohammed Alzahrani"
     Content: >
-      Security researcher. CTF player. Writing about what I break and how I think.
-      Topics: red team | malware analysis | web security | CTF writeups.
+      Senior Cybersecurity Analyst | Threat Hunter | Cyber Security Researcher.
+      OSTH | eCTHPv2 | eCIR — Writing about threat hunting, incident response, red team techniques, and security research.
 
   socialIcons:
     - name: github

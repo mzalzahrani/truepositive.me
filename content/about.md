@@ -7,18 +7,26 @@ summary: "about"
 
 ## whoami
 
-Security researcher and CTF player.
+I'm **Mohammed Alzahrani**, a Senior Cybersecurity Analyst, Threat Hunter, and Security Researcher.
 
-I write about what I break, what I learn, and how I think through offensive and defensive security problems.
+I focus on threat hunting, incident response, and offensive security research. This blog is where I document findings, techniques, and writeups from my work and research.
 
-**Topics I cover:**
-- Web application security
-- CTF writeups (HackTheBox, TryHackMe, etc.)
-- Red team techniques
+## Certifications
+
+- OSTH — Certified Threat Hunter
+- eCTHPv2 — Certified Threat Hunting Professional
+- eCIR — Certified Incident Responder
+
+## Topics I write about
+
+- Threat hunting techniques and playbooks
+- Incident response case studies
+- Red team & offensive security
 - Malware analysis
-- Vulnerability research
+- CTF writeups
 
 ## Find me
 
 - GitHub: [mzalzahrani](https://github.com/mzalzahrani)
-- Email: topmohammed2013@gmail.com
+- LinkedIn: [Mohammed Alzahrani](https://www.linkedin.com/in/mohammed-a-alzahrani/)
+- Email: truepositive350@pm.me
