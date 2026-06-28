@@ -23,7 +23,6 @@ I focus on threat hunting, incident response, and offensive security research. T
 - Incident response case studies
 - Red team & offensive security
 - Malware analysis
-- CTF writeups
 
 ## Find me
 
