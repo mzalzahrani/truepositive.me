@@ -55,8 +55,6 @@ params:
       url: "https://github.com/mzalzahrani"
     - name: linkedin
       url: "https://www.linkedin.com/in/mohammed-a-alzahrani/"
-    - name: rss
-      url: "/index.xml"
 
   cover:
     hidden: false
